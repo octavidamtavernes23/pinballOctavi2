@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ball
+  - monedes
+  - dianes
+  - dianes1
+  - dianes2
+  - bumpers
   layers:
   - Default
   - TransparentFX
